@@ -1,3 +1,4 @@
-# clock
-打卡专用
-from @shengxinjing
+# demo library
+
+- [clock](https://github.com/bestkwanwa/demolib/clock.html)
+
