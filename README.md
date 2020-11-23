@@ -1,4 +1,5 @@
 # demo library
 
-- [clock](https://github.com/bestkwanwa/demolib/clock.html)
+- [clock](https://bestkwanwa.github.io/demolib/clock.html)
+- [custom-component](https://bestkwanwa.github.io/demolib/custom-component.html)
 
